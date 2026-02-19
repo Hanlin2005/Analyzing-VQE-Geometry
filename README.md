@@ -2,8 +2,6 @@
 
 A quantum computing simulation study investigating how qubit connectivity constraints and SWAP-induced gate noise degrade Variational Quantum Eigensolver (VQE) accuracy when solving 1D and 2D Heisenberg spin models on mismatched hardware topologies.
 
-> **Course:** ECE 520 Final Project &nbsp;|&nbsp; **Author:** Hanlin Wang &nbsp;|&nbsp; **Date:** December 2025
-
 ---
 
 ## Table of Contents
